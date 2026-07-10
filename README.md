@@ -99,6 +99,7 @@
   <h3>🖥️ IT Support & Systems</h3>
 
   <p>
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
     <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft%20365-D83B01.svg?logo=microsoftoffice&logoColor=white">
