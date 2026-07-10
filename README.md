@@ -105,6 +105,8 @@
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-7465F7.svg?logo=swagger&logoColor=white"></a>
+      <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-7465F7.svg?logo=json&logoColor=white"></a>
   </p>
 
 <h3>🔍 Testing & Code Quality</h3>
