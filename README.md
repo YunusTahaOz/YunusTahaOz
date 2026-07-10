@@ -130,6 +130,8 @@
   <h3>☁️ Cloud Hosting</h3>
 
   <p>
+      <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
+      <a href="#"><img alt="AWS Basics" src="https://img.shields.io/badge/AWS%20Basics-232F3E.svg?logo=amazonaws&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
