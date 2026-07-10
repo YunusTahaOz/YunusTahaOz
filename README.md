@@ -27,12 +27,7 @@
     />
   </a>
 </p>
-
-<h2></h2>
-
-<div style="border-top: 1px solid #30363d; width: 90%; margin: 24px auto;"></div>
-
-<div align="center">
+<h2>👋 About Me</h2>
 
 <p>
   I am a recent <b>Information Technology graduate</b> based in Poznań, Poland, with a strong interest in 
@@ -46,11 +41,6 @@
   My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals. 
   I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
 </p>
-
-</div>
-
-<div style="border-top: 1px solid #30363d; width: 90%; margin: 24px auto;"></div>
-
 <br/>
 </div>
 <details open> 
