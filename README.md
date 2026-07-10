@@ -15,13 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi there 👋</h1>
+
 <p align="center">
   <a href="https://github.com/YunusTahaOz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=7465F7&repeat=false&width=435&lines=Yunus+Taha+%C3%96z" alt="Typing SVG" /></a>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=7465F7&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Yunus+Taha+%C3%96z" 
+      alt="Yunus Taha Öz" 
+    />
+  </a>
 </p>
 
-<p align="center">  
+<p align="center">
   <a href="https://github.com/YunusTahaOz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7465F7&width=435&lines=IT+Specialist+%7C+Software+Developer" alt="Typing SVG" /></a>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7465F7&center=true&vCenter=true&width=700&height=50&lines=IT+Specialist+%7C+Software+Developer" 
+      alt="IT Specialist | Software Developer" 
+    />
+  </a>
 </p>
-
