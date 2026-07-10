@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YunusTahaOz">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=513DFF&repeat=false&width=435&lines=Hi%2C+I'm+Yunus+Taha+%C3%96z" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=7465F7&repeat=false&width=435&lines=Hi%2C+I'm+Yunus+Taha+%C3%96z" alt="Typing SVG" /></a>
     />
   </a>
 </p>
