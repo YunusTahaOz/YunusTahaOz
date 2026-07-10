@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<h2>👋 About Me</h2>
+<h2></h2>
 
 <p>
   I am a recent <b>Information Technology graduate</b> based in Poznań, Poland, with a strong interest in 
