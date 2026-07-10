@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/yunus-taha-oz/">
     <img 
-      width="36px" 
+      width="50px" 
       alt="LinkedIn" 
       title="LinkedIn" 
       src="https://i.imgur.com/Mkz5Exq.png"
