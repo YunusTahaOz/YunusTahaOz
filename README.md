@@ -40,9 +40,9 @@
   I enjoy solving practical problems, improving system reliability, and building clean, useful software solutions. 
   My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals. 
   I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
-</p>
 <h2></h2>
-
+</p>
+<br/>
 </div>
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
