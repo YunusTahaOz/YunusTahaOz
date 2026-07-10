@@ -38,12 +38,6 @@ Here are some ideas to get you started:
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yunus-taha-oz/">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-7465F7?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin_logo_7465F7_transparent_512.png"/>
+</a>
 </p>
-
-<br/>
