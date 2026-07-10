@@ -28,6 +28,8 @@
   </a>
 </p>
 </div>
+
+
 <h2></h2>
 <p align="justify">
   I am a recent <b>Information Technology graduate</b> based in Poznań, Poland, with a strong interest in 
@@ -38,9 +40,15 @@
 
 <p align="justify">
   I enjoy solving practical problems, improving system reliability, and building clean, useful software solutions. 
-  My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals. 
-  I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
+  My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals.
 </p>
+
+<p align="justify">
+  I am currently open to junior-level opportunities in <b>IT Support</b>, <b>Help Desk</b>, 
+  <b>Technical Support</b>, <b>Junior IT</b>, <b>Junior QA</b>, and software-related roles. 
+  I am open to <b>on-site</b>, <b>hybrid</b>, and <b>remote</b> positions.
+</p>
+
 <h2></h2>
 <br/>
 
