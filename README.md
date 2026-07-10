@@ -81,6 +81,7 @@
 
 
 <details> 
+    <summary><h2>🛠️ Tech Stack & Tools</h2></summary>
  <h3>👨‍💻 Programming & Scripting</h3>
 
 <p>
