@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yunus-taha-oz/">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin_logo_7465F7_transparent_512.png"/>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/a/Ud7FVQy"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </a>
 </p>
