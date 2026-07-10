@@ -56,7 +56,17 @@
   <summary><h2>📘 My Projects</h2></summary>
 
   <p align="center">
-    <i>Projects will be added here soon.</i>
+    <a href="https://github.com/YunusTahaOz/Pratigo-Professional-English-Learning-App">
+      <img 
+        width="420" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=Pratigo-Professional-English-Learning-App&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&icon_color=7465F7&hide_border=true" 
+        alt="Pratigo - Professional English Learning App"
+      />
+    </a>
+  </p>
+
+  <p align="center">
+    <i>More projects will be added soon.</i>
   </p>
 
   <!-- 
@@ -64,24 +74,24 @@
   PROJECT CARD TEMPLATE
   ============================
 
-  When you create a project, copy one block below and replace:
+  When you add a new project, copy the block below and replace:
 
   1. REPOSITORY_URL
-  2. YOUR_GITHUB_USERNAME
-  3. REPOSITORY_NAME
-  4. PROJECT_NAME
+  2. REPOSITORY_NAME
+  3. PROJECT_NAME
 
   Example:
-  username=YunusTahaOz
-  repo=your-repo-name
+  REPOSITORY_URL = https://github.com/YunusTahaOz/example-project
+  REPOSITORY_NAME = example-project
+  PROJECT_NAME = Example Project
   -->
 
   <!--
   <p align="center">
     <a href="REPOSITORY_URL">
       <img 
-        width="360" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPOSITORY_NAME&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&icon_color=7465F7&hide_border=true" 
+        width="420" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&icon_color=7465F7&hide_border=true" 
         alt="PROJECT_NAME"
       />
     </a>
@@ -99,7 +109,6 @@
   </p>
 
 </details>
-
 
 
 <details> 
