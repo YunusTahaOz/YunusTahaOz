@@ -11,8 +11,8 @@
 
   <a href="https://github.com/YunusTahaOz">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7465F7&center=true&vCenter=true&width=700&height=50&lines=IT+Support+Specialist+%7C+Software+Developer" 
-      alt="IT Support Specialist | Software Developer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7465F7&center=true&vCenter=true&width=700&height=50&lines=IT+Support+Specialist+%7C+Junior+Software+Developer" 
+      alt="IT Support Specialist | Junior Software Developer" 
     />
   </a>
 <!-- Social icons section -->
