@@ -30,6 +30,10 @@
 
 <h2></h2>
 
+<hr>
+
+<div align="center">
+
 <p>
   I am a recent <b>Information Technology graduate</b> based in Poznań, Poland, with a strong interest in 
   <b>IT Support</b>, system troubleshooting, and <b>software development</b>. During my studies, I gained 
@@ -42,6 +46,10 @@
   My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals. 
   I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
 </p>
+
+</div>
+
+<hr>
 
 
 <br/>
