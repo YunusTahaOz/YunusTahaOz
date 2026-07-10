@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+  <a href="https://github.com/YunusTahaOz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=7465F7&repeat=false&width=435&lines=Yunus+Taha+%C3%96z" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7465F7&width=435&lines=IT+Specialist+%7C+Software+Developer" alt="Typing SVG" /></a>
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7465F7&width=435&lines=IT+Specialist+%7C+Software+Developer" alt="Typing SVG" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
