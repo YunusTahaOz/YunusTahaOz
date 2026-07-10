@@ -42,7 +42,7 @@
   I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
 </p>
 <h2></h2>
-<br/>
+
 </div>
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
