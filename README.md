@@ -55,55 +55,25 @@
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
-  <p align="center">
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left">
     <a href="https://github.com/YunusTahaOz/Pratigo-Professional-English-Learning-App">
       <img 
-        width="420" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=Pratigo-Professional-English-Learning-App&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&icon_color=7465F7&hide_border=true" 
-        alt="Pratigo - Professional English Learning App"
+        width="278" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=Pratigo-Professional-English-Learning-App&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="Pratigo Professional English Learning App"
       />
     </a>
   </p>
 
-  <p align="center">
-    <i>More projects will be added soon.</i>
-  </p>
+  <!-- More project cards will be added here later -->
 
-  <!-- 
-  ============================
-  PROJECT CARD TEMPLATE
-  ============================
-
-  When you add a new project, copy the block below and replace:
-
-  1. REPOSITORY_URL
-  2. REPOSITORY_NAME
-  3. PROJECT_NAME
-
-  Example:
-  REPOSITORY_URL = https://github.com/YunusTahaOz/example-project
-  REPOSITORY_NAME = example-project
-  PROJECT_NAME = Example Project
-  -->
-
-  <!--
-  <p align="center">
-    <a href="REPOSITORY_URL">
-      <img 
-        width="420" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&icon_color=7465F7&hide_border=true" 
-        alt="PROJECT_NAME"
-      />
-    </a>
-  </p>
-  -->
-
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/YunusTahaOz?tab=repositories">
       <img 
         alt="All Repositories" 
         title="All Repositories" 
-        src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-7465F7?style=for-the-badge&logoColor=white&logo=repo"
+        src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-7465F7?style=for-the-badge&logoColor=white&logo=repo"
       />
     </a>
   </p>
