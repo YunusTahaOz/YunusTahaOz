@@ -27,24 +27,23 @@
     />
   </a>
 </p>
-
+</div>
 <h2></h2>
-
-<p>
+<p align="justify">
   I am a recent <b>Information Technology graduate</b> based in Poznań, Poland, with a strong interest in 
   <b>IT Support</b>, system troubleshooting, and <b>software development</b>. During my studies, I gained 
   <b>2 years of hands-on experience</b> as a System Support Assistant, working with system monitoring, 
   user support, issue diagnosis, updates, and daily technical operations.
 </p>
 
-<p>
+<p align="justify">
   I enjoy solving practical problems, improving system reliability, and building clean, useful software solutions. 
   My background combines IT support experience with programming, web development, databases, testing, and cloud fundamentals. 
   I am currently focused on growing as an <b>IT Specialist / Software Developer</b> and contributing to real-world technical projects.
 </p>
 <h2></h2>
 <br/>
-</div>
+
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
