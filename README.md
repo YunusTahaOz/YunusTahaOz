@@ -102,7 +102,7 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
     <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft%20365-D83B01.svg?logo=microsoftoffice&logoColor=white">
-    <img alt="Active Directory Basics" src="https://img.shields.io/badge/Active%20Directory-Basics-0078D4.svg?logo=microsoft&logoColor=white">
+    <img alt="Active Directory Basics" src="https://img.shields.io/badge/Active%20Directory%20Basics-0078D4.svg?logo=microsoft&logoColor=white">
     <img alt="Troubleshooting" src="https://img.shields.io/badge/Troubleshooting-7465F7.svg">
   </p>
 
