@@ -30,7 +30,7 @@
 
 <h2></h2>
 
-<hr>
+<div style="border-top: 1px solid #30363d; width: 90%; margin: 24px auto;"></div>
 
 <div align="center">
 
@@ -49,8 +49,7 @@
 
 </div>
 
-
-
+<div style="border-top: 1px solid #30363d; width: 90%; margin: 24px auto;"></div>
 
 <br/>
 </div>
