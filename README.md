@@ -55,18 +55,107 @@
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Repo info cards - 9 project layout -->
   <p align="left">
+
+    <!-- Project 1 -->
     <a href="https://github.com/YunusTahaOz/Pratigo-Professional-English-Learning-App">
       <img 
         width="278" 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=Pratigo-Professional-English-Learning-App&theme=react&bg_color=0D1117&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=Pratigo-Professional-English-Learning-App&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
         alt="Pratigo Professional English Learning App"
       />
     </a>
-  </p>
 
-  <!-- More project cards will be added here later -->
+    <!-- Project 2 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 3 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 4 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 5 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 6 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 7 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 8 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+    <!-- Project 9 -->
+    <!--
+    <a href="https://github.com/YunusTahaOz/REPOSITORY_NAME">
+      <img 
+        width="278" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YunusTahaOz&repo=REPOSITORY_NAME&theme=react&bg_color=1F222E&title_color=7465F7&text_color=FFFFFF&hide_border=true&icon_color=7465F7&show_icons=false" 
+        alt="PROJECT_NAME"
+      />
+    </a>
+    -->
+
+  </p>
 
   <p align="left">
     <a href="https://github.com/YunusTahaOz?tab=repositories">
