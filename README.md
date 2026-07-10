@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/yunus-taha-oz/">
     <img 
-      width="32px" 
       alt="LinkedIn" 
       title="LinkedIn" 
-      src="https://cdn.simpleicons.org/linkedin/7465F7"
+      src="https://img.shields.io/badge/LinkedIn-7465F7?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </p>
